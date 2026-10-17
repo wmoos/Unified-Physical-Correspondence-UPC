@@ -24,70 +24,10 @@ UPC provides a unified operator framework for transitions between discrete and c
 
 ---
 
-## Citation
-
-Moosbrugger, W. (2026). *Unified Physical Correspondence (UPC), Version 05.*  
-Zenodo. https://doi.org/10.5281/zenodo.22542613
-
+## Keywords
+continuum-model, monistic-continuum-model, wmoos, Moosbrugger Walter, Wels, AT, Physik, Kosmos, Universum, Ontologie, Theorie, Preprints, continuum-physics, projection-vector-theory, planck-vortex-theory, pvt, mcm, operator-ontology, geometric-ontology, rotational-dynamics, pre-spatial-medium, continuum-rotation, projection-mechanisms, unified-physical-correspondence, dark-matter, electron-entanglement, black-holes, theoretical-physics, mathematical-physics, ontology-framework, continuum-dynamics, Klassische Mechanik, Elektromagnetismus, Thermodynamik, Statistische Mechanik, Spezielle Relativitätstheorie, Allgemeine Relativitätstheorie, Quantenmechanik, Standardmodell der Teilchenphysik, Kosmologie, Stringtheorie, Quantengravitation
 ---
 
-## Repository Structure
-
-- **docs/**  
-  Contains the full UPC_V05_EN preprint and related MCM ontology documents.
-
-- **src/**  
-  Prototype implementations of the operator algebra and example vortex configurations.
-
-- **examples/**  
-  Demonstrations of spectral and topological projections.
-
-- **figures/**  
-  Diagrams illustrating vortex architecture, projections, and correspondence maps.
-
----
-
-## Core Concepts
-
-- **Monistic Medium**  
-  A single non-mechanical medium without fundamental space, time, fields, or particles.
-
-- **Discrete Vortex Basis**  
-  A set of vortex cells carrying geometric, topological, and dynamical parameters.
-
-- **Operator Algebra**  
-  A unified set of operators generating geometry, topology, dynamics, stability, and clustering.
-
-- **Functorial Projections**  
-  Spectral projection → quantum fields  
-  Topological projection → curvature and relativistic structure
-
-- **Stability Condition**  
-  Defines when vortex configurations behave as stable physical structures.
-
----
-
-## Correspondence Principle
-
-Quantum mechanics and general relativity emerge as functorial projections of the same discrete vortex architecture.  
-The intermediate regime appears when both projections act simultaneously, enabling hybrid quantum–gravitational behavior.
-
----
-
-## Relation to MCM Ontology
-
-UPC is fully compatible with the MCM Master Ontology (Version 07).  
-It provides the operator-level realization of the monistic geometric medium and its emergent structures.
-
----
-
-## Status and Development
-
-- Current: Conceptual and mathematical framework  
-- Planned: Numerical spectra, explicit GR-limit derivations, measurable signatures
-
----
-
-## License
-
-This work is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+## Author
+**Walter Moosbrugger**  
+Independent Researcher, Wels AT 
